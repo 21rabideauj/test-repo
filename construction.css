@@ -2,6 +2,9 @@ h1,h2,h3,h4,p,div{
     color: aliceblue;
     text-align: center;
 }
+a{
+    color: cyan;
+}
 body{
   background:#3B5998
 }
